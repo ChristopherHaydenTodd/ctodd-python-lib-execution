@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
     Purpose:
-        Library for Logging the Execution Details of any function
+        Library for Logging the Execution Details of any callable
         or the main() function of a script.
 """
 
